@@ -13,4 +13,3 @@ Create table Emp
 Select * from Emp;
 
 
-alter table Emp add Gender Char(1) , Phone_Number varchar(10) , Address varchar(100) , Department varchar(100) , Basic_Pay decimal(10,2) , Deduction decimal(10,2) , Taxable_Pay decimal(10,2) , Income_Tax decimal(10,2) , Net_Pay decimal(10,2); 
